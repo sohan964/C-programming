@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//reverse number
 int main()
 {
 int n,i,rev;
