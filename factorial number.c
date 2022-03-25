@@ -1,4 +1,4 @@
-//find any given number factorial.
+//find any given number factorial
 #include <stdio.h>
 
 int main()
